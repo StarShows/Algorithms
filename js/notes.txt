@@ -1,0 +1,7 @@
+Algorithms directory:
+
+fibonacci sequence
+reverse string
+palindrome
+fizbuzz
+
