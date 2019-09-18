@@ -61,6 +61,12 @@ findMedian = (dataSet1, dataSet2) => {
 let dataSet1Len = dataSet.length;
 let dataSet2Len = dataSet.length;
 
+/* declare a new array to be returned at the end of this function. */
+let medians =[];
+let. i=0,j=0,k=0;
+
+
+
 // TODO: Continue code here...
 
 }
